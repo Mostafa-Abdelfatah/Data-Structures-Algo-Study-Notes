@@ -12,3 +12,6 @@ Algorithms ->
 
 
 
+Problems ->
+            1)buket sort -> https://leetcode.com/problems/top-k-frequent-elements/description/
+            2) use prefix and suffix efficiency -> https://leetcode.com/problems/product-of-array-except-self/
